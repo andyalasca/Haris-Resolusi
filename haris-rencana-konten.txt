@@ -3,7 +3,10 @@ RENCANA KONTEN HARIS
 - Javascript
 * ES6
 * Frameworks Javascript
+  ^ Vue
 - Struktur Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
